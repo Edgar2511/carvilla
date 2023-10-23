@@ -1,0 +1,25 @@
+.FeauturedCars {
+  /* max-width: 1440px; */
+  width: 100%;
+}
+
+/* .FeauturedCarsContainer {
+  max-width: 1440px;
+  width: 100%;
+  padding: 0 375px;
+  display: flex;
+  flex-direction: column;
+  column-gap: 30px;
+} */
+
+/* .FeauturedCarsContainer {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 30px;
+} */
+
+/* .FeauturedCar {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 30px;
+} */

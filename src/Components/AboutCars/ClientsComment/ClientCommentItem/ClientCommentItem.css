@@ -1,0 +1,32 @@
+.ClientCommentItemContainer {
+  margin: 0 315px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  gap: 30px;
+}
+
+.ClientCommentItem {
+  border: 1px solid #dadfe9;
+  padding: 50px 30px 57px;
+  text-align: center;
+}
+
+.clientComment {
+  padding: 30px 0 25px;
+  color: #5e6778;
+  font-size: 16px;
+}
+
+.clientCity a {
+  text-decoration: none;
+  color: #5e6778;
+  font-size: 16px;
+}
+
+.clientName {
+  margin-top: 10px;
+  color: #5e6778;
+  font-size: 16px;
+}

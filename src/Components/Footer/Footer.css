@@ -1,0 +1,74 @@
+.Footer {
+  padding: 0 315px;
+  background-color: #2a2d54;
+  /* color: #818998; */
+}
+
+.FooterPadding {
+  padding: 112px 0 72px;
+}
+
+.FooterContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  flex-direction: row;
+}
+
+.CarvillaSectionTitle a {
+  font-size: 24px !important;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.CarvillaSectionDescription {
+  padding: 40px 0 20px;
+  color: #eeeff6;
+  font-size: 14px;
+}
+
+.CarvillaSectionContact p {
+  font-size: 14px;
+  color: #d1d7e9;
+}
+
+.DevloonTitle {
+  color: #ffffff;
+  margin-bottom: 43px;
+  font-size: 14px !important;
+}
+
+.DevloonSections ul li {
+  list-style-type: none;
+  padding-bottom: 13px;
+}
+
+.DevloonSections ul li a {
+  text-decoration: none;
+  color: #cfd0e3;
+  font-size: 14px;
+}
+
+.TopBrandsSectionTitle {
+  margin-bottom: 43px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.TopBrandsSectionContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  gap: 60px;
+}
+
+.TopBrandsSection ul li {
+  list-style-type: none;
+  padding-bottom: 13px;
+}
+
+.TopBrandsSection ul li a {
+  text-decoration: none;
+  color: #cfd0e3;
+  font-size: 14px;
+}

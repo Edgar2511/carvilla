@@ -1,0 +1,53 @@
+.FeauturedCarCard {
+  padding: 0 70px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.FeauturedCarContainer {
+  box-sizing: border-box;
+  /* max-height: 220px; */
+}
+
+.FeauturedCarImg {
+  /* height: 100%; */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 0 30px;
+  border: 0.5px solid #818998;
+}
+
+.FeauturedCarModel {
+  color: #818998;
+}
+
+.FeauturedCarModelType {
+  border: 0.5px solid #818998;
+  font-size: 12px;
+  padding: 12px 7px;
+}
+.FeauturedCarModelType p {
+  font-size: 12px;
+  color: #818998;
+}
+
+.FeauturedCarName {
+  margin: 15px 0;
+  font-size: 16px !important ;
+  color: #444a57;
+}
+
+.FeauturedCarPrice {
+  margin-bottom: 10px;
+  font-size: 13px;
+  color: #444a57;
+}
+
+.aboutFeauturedCar {
+  margin-bottom: 30px;
+  font-size: 13px;
+  color-interpolation-filters: #444a57;
+}

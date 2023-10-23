@@ -1,0 +1,33 @@
+.AboutCarTitle {
+  padding: 115px;
+}
+
+.AboutCarTitleCard {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.CheckoutTitle {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #444a57;
+  text-align: center;
+}
+
+.CarTitleCard {
+  position: relative;
+  z-index: 1;
+  padding-bottom: 35px;
+  font-size: 36px !important;
+  color: #444a57;
+  text-align: center;
+}
+
+.CarTitleCard:after {
+  content: "";
+  position: absolute;
+  left: 48%;
+  bottom: 0;
+  width: 80px;
+  border-bottom: 3px solid #3030ea;
+}

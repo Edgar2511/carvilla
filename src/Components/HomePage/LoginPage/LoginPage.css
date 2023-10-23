@@ -1,0 +1,47 @@
+.LoginPage {
+  padding: 100px 0;
+}
+
+.LoginPageTitle {
+  padding: 24px 0;
+}
+
+.LoginPageWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.LoginPageWrapper form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.LoginPageWrapper form input {
+  padding: 8px 16px;
+}
+
+.userAuth {
+  display: flex;
+  margin: 0 auto;
+}
+
+.userAuth button {
+  text-align: center;
+  margin: 0 10px;
+  padding: 8px 16px;
+  background-color: #4e4ffa;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+/* .signup-button {
+  margin: 0 10px;
+  padding: 8px 16px;
+  background-color: #4e4ffa;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+} */

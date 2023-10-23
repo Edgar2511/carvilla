@@ -1,0 +1,49 @@
+.NewestCarContainer {
+  margin: 0 auto;
+  max-width: 1200px;
+  display: flex !important;
+  justify-content: space-between;
+  row-gap: 20px;
+  padding-top: 96px;
+}
+
+.NewestCarDescription {
+  max-width: 485px;
+}
+
+.NewestCarDescription h2 {
+  margin-bottom: 26px;
+}
+
+.NewestCarDescription a {
+  text-decoration: none;
+  color: #444a57;
+  font-size: 30px;
+}
+
+.NewestCarParam {
+  font-size: 16px;
+  color: #818998;
+}
+
+.NewestCarParam2 {
+  margin-top: 30px;
+  font-size: 16px;
+  color: #818998;
+}
+
+.NewestCarButton {
+  margin-top: 32px;
+  font-size: 16px;
+  padding: 12px 20px;
+  background-color: #4e4ffa;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  border: 3px;
+}
+
+.NewestCarButton:hover {
+  background-color: #1b1bf4;
+  transition: 0.6s;
+}

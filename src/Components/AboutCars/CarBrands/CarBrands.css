@@ -1,0 +1,15 @@
+.CarBrands {
+  padding: 120px 250px;
+}
+
+.CarBrandsContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+}
+
+.CarBrandsContainer img {
+  padding: 0 40px;
+}
